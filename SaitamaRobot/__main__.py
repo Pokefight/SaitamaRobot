@@ -240,7 +240,7 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text=" Devloper",
+                                text=" Developer",
                                 url="https://t.me/wanacoins",
                             )
                         ],
