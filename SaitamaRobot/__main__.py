@@ -58,7 +58,7 @@ You can find my list of commands with /help.
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm a Hero and help admins/Pro Heroes manage their groups with abilities! Have a look at the following for an idea of some of \
+I'm a Hero and help admins/Pro Heroes manage their groups with my abilities! Have a look at the following for an idea of some of \
 the things I can help you with.
 
 *Main* commands available:
