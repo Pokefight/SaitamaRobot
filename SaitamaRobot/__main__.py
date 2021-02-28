@@ -209,7 +209,7 @@ def start(update: Update, context: CallbackContext):
                              url=f"https://t.me/{SUPPORT_CHAT}"),
                          InlineKeyboardButton(
                              text=" Miroriya Updates",
-                             url="https://t.me/MidoriyaNews")
+                             url="https://t.me/MidoriyaUpdates")
                      ],
                      [
                          InlineKeyboardButton(
